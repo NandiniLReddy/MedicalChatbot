@@ -1,15 +1,5 @@
 # Medical Chatbot
+This project is a Medical Chatbot application built using Streamlit as the web framework and LangChain for building the retrieval-based question answering pipeline.
 
----
-title: Medical ChatBot
-emoji: 📈
-colorFrom: pink
-colorTo: blue
-sdk: streamlit
-sdk_version: 1.35.0
-app_file: app.py
-pinned: false
-license: mit
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+## Live Demo
+You can explore the live demo of Metamorph hosted on [Hugging Face Spaces](https://huggingface.co/spaces/Veda0718/Medical_ChatBot)
