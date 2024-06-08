@@ -5,4 +5,4 @@ This project is a Medical Chatbot application built using Streamlit as the web f
 You can explore the live demo of Metamorph hosted on [Hugging Face Spaces](https://huggingface.co/spaces/Veda0718/Medical_ChatBot)
 
 # Medium Blog:
-A detailed explanation of concepts on [Medium Post](https://medium.com/@sahaja2001vsj/creating-your-own-medical-chatbot-a-step-by-step-guide-6c42e713e904)
+A detailed explanation of concepts on [Medium](https://medium.com/@sahaja2001vsj/creating-your-own-medical-chatbot-a-step-by-step-guide-6c42e713e904)
