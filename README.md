@@ -1,5 +1,5 @@
-# Medical Chatbot
-This project is a Medical Chatbot application built using Streamlit as the web framework and LangChain for building the retrieval-based question-answering pipeline.
+# Medical Chatbot using RAG
+This project is a Medical Chatbot application built using Streamlit as the web framework and LangChain to implement a **Retrieval-Augmented Generation (RAG)** pipeline for answering medical queries based on a custom knowledge base.
 
 ## Live Demo
 You can explore the live demo of the application is hosted on [Hugging Face Spaces](https://huggingface.co/spaces/Veda0718/Medical_ChatBot)
